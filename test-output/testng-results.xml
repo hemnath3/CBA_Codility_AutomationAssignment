@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-02T19:18:53 AEST" name="Suite" finished-at="2021-05-02T19:19:00 AEST" duration-ms="6876">
+    <groups>
+    </groups>
+    <test started-at="2021-05-02T19:18:53 AEST" name="Test" finished-at="2021-05-02T19:19:00 AEST" duration-ms="6876">
+      <class name="com.selenium.tests.CodilityislandTest">
+        <test-method is-config="true" signature="setUp([Ljava.lang.Object;)[pri:0, instance:com.selenium.tests.CodilityislandTest@346d61be]" started-at="2021-05-02T19:18:53 AEST" name="setUp" finished-at="2021-05-02T19:18:57 AEST" duration-ms="3362" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@39109136]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp([Ljava.lang.Object;)[pri:0, instance:com.selenium.tests.CodilityislandTest@346d61be]" started-at="2021-05-02T19:18:53 AEST" name="setUp" finished-at="2021-05-02T19:18:57 AEST" duration-ms="3370" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@34dc85a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp([Ljava.lang.Object;)[pri:0, instance:com.selenium.tests.CodilityislandTest@346d61be]" started-at="2021-05-02T19:18:53 AEST" name="setUp" finished-at="2021-05-02T19:18:57 AEST" duration-ms="3319" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@27c04377]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchPortTest(java.util.Map)[pri:0, instance:com.selenium.tests.CodilityislandTest@346d61be]" started-at="2021-05-02T19:18:57 AEST" name="searchPortTest" description="Search for nearby ports" finished-at="2021-05-02T19:18:59 AEST" duration-ms="2191" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Execute=Yes, expisland=Port Royal, TestCaseName=searchPortTest, keyword=port, errormsg=N/A, Browser=chrome}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPortTest -->
+        <test-method signature="searchIslandTest(java.util.Map)[pri:0, instance:com.selenium.tests.CodilityislandTest@346d61be]" started-at="2021-05-02T19:18:57 AEST" name="searchIslandTest" description="Search for nearby islands" finished-at="2021-05-02T19:18:59 AEST" duration-ms="2181" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Execute=Yes, expisland=Isla de Muerta, TestCaseName=searchIslandTest, keyword=isla, errormsg=N/A, Browser=chrome}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchIslandTest -->
+        <test-method signature="emptyKeywordSearch(java.util.Map)[pri:0, instance:com.selenium.tests.CodilityislandTest@346d61be]" started-at="2021-05-02T19:18:57 AEST" name="emptyKeywordSearch" description="Validate error message for an empty search" finished-at="2021-05-02T19:18:58 AEST" duration-ms="1506" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Execute=Yes, expisland=N/A, TestCaseName=emptyKeywordSearch, keyword=N/A, errormsg=Provide some query, Browser=chrome}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyKeywordSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.selenium.tests.CodilityislandTest@346d61be]" started-at="2021-05-02T19:18:58 AEST" name="tearDown" finished-at="2021-05-02T19:19:00 AEST" duration-ms="1393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.selenium.tests.CodilityislandTest@346d61be]" started-at="2021-05-02T19:18:59 AEST" name="tearDown" finished-at="2021-05-02T19:19:00 AEST" duration-ms="757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.selenium.tests.CodilityislandTest@346d61be]" started-at="2021-05-02T19:18:59 AEST" name="tearDown" finished-at="2021-05-02T19:19:00 AEST" duration-ms="789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.selenium.tests.CodilityislandTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
