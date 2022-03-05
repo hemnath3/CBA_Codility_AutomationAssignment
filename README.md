@@ -1,5 +1,5 @@
-# CBA_Codility_AutomationAssignment
-Selenium Test for Codility assignment
+
+Selenium Test AUtomation Farmework
 
 Automation framework using Maven build tools to manage the dependencies.
 
